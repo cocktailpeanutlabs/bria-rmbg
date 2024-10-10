@@ -55,6 +55,7 @@ module.exports = {
           icon: "fa-solid fa-broom",
           text: "Factory Reset",
           href: "reset.js",
+          confirm: "Are you sure you wish to reset the app?",
         }]
       }
     } else {
